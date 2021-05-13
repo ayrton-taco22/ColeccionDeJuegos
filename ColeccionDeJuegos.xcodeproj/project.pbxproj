@@ -14,6 +14,7 @@
 		0FD832DB264C571E0060405C /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0FD832D9264C571E0060405C /* ColeccionDeJuegos.xcdatamodeld */; };
 		0FD832DD264C57230060405C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FD832DC264C57230060405C /* Assets.xcassets */; };
 		0FD832E0264C57230060405C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FD832DE264C57230060405C /* LaunchScreen.storyboard */; };
+		0FD832E9264CB5AF0060405C /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD832E8264CB5AF0060405C /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0FD832DC264C57230060405C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FD832DF264C57230060405C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FD832E1264C57230060405C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FD832E8264CB5AF0060405C /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				0FD832DE264C57230060405C /* LaunchScreen.storyboard */,
 				0FD832E1264C57230060405C /* Info.plist */,
 				0FD832D9264C571E0060405C /* ColeccionDeJuegos.xcdatamodeld */,
+				0FD832E8264CB5AF0060405C /* JuegosViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FD832E9264CB5AF0060405C /* JuegosViewController.swift in Sources */,
 				0FD832D5264C571E0060405C /* ViewController.swift in Sources */,
 				0FD832D1264C571E0060405C /* AppDelegate.swift in Sources */,
 				0FD832D3264C571E0060405C /* SceneDelegate.swift in Sources */,
